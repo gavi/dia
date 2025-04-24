@@ -1,0 +1,18 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Core Package Structure
+
+The `dia` package contains the following key modules:
+
+- [dia/model.py](mdc:dia/model.py): Core model implementation
+- [dia/layers.py](mdc:dia/layers.py): Neural network layers and components
+- [dia/audio.py](mdc:dia/audio.py): Audio processing functionality
+- [dia/config.py](mdc:dia/config.py): Configuration management
+- [dia/state.py](mdc:dia/state.py): State management
+- [dia/static/](mdc:dia/static): Static assets and resources
+
+## Key Dependencies
+Dependencies are managed through [pyproject.toml](mdc:pyproject.toml)

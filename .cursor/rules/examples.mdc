@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Example Usage
+
+The project includes example implementations:
+
+- [example/simple.py](mdc:example/simple.py): Basic usage example
+- [example/voice_clone.py](mdc:example/voice_clone.py): Voice cloning implementation
+
+## Getting Started
+Start with [example/simple.py](mdc:example/simple.py) for basic usage patterns.

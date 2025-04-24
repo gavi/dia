@@ -1,0 +1,19 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Project Structure Guide
+
+This is a Python project with the following key components:
+
+- [app.py](mdc:app.py): Main application file containing core functionality
+- [cli.py](mdc:cli.py): Command-line interface implementation
+- [pyproject.toml](mdc:pyproject.toml): Project dependencies and configuration
+- [dia/](mdc:dia): Core package directory
+- [example/](mdc:example): Example usage and demonstrations
+- [docker/](mdc:docker): Docker-related configuration files
+
+## Key Entry Points
+- Main application: [app.py](mdc:app.py)
+- CLI interface: [cli.py](mdc:cli.py)
